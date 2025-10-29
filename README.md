@@ -6,13 +6,10 @@
 <p align="center">
     💻 **My Focus:** I specialize in creating **high-quality, high-performance** native Android applications, prioritizing the best practices in **architecture (like Clean/MVVM), design, and testing**. My mission is to transform ideas into robust and scalable products.
     <br><br>
-    🎓 **My Background:** I have a solid foundation as a Senior Technician in Multiplatform and Web Application Development, complemented by certifications in **Java, HTML, and Trainer of Trainers**. I am committed to **continuous learning** and applying the latest trends in the mobile ecosystem.
-</p>
-
-<p align="center">
     💻 **Mi Enfoque:** Me especializo en la creación de aplicaciones nativas de **alta calidad y rendimiento** para Android, priorizando las mejores prácticas de **arquitectura (como Clean/MVVM), diseño y testing**. Mi misión es transformar ideas en productos robustos y escalables.
-    <br><br>
-    🎓 **Mi Base:** Cuento con una sólida formación como Técnica Superior en Desarrollo de Aplicaciones Multiplataforma y Web, complementada con certificaciones en **Java, HTML y Formación de Formadores**. Estoy comprometida con el **aprendizaje continuo** y la aplicación de las últimas tendencias del ecosistema móvil.
+</p>
+<p align="center">
+    🎓 **My Background / Mi Base:** Cuento con sólida formación como Técnica Superior en Desarrollo de Aplicaciones y estoy comprometida con el **aprendizaje continuo**.
 </p>
 
 ---
@@ -29,7 +26,7 @@
 
 * 💬 Ask me about / Pregúntame sobre: **Kotlin, Java, Android Architecture, Testing, and XML**
 * 📧 Contact me at / Contáctame en: **susanacordobaserrano@gmail.com**
-* 📄 Know about my professional experience / Conoce mi experiencia profesional: **[My LinkedIn Profile / Mi perfil de LinkedIn](https://www.linkedin.com/in/susanacordobaserrano)**
+* 📄 Know about my professional experience / Conoce mi experiencia profesional: **[Mi perfil de LinkedIn](https://www.linkedin.com/in/susanacordobaserrano)**
 
 <p align="left">
     <a href="https://linkedin.com/in/www.linkedin.com/in/susanacordobaserrano" target="_blank">
@@ -53,14 +50,14 @@
 
 ---
 
-<p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=devsusana&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsusana&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-    <br><br><br><br><br><br><br><br>
-    
-    <img align="center" src="https://git-hub-streak-stats.vercel.app/?user=devsusana&theme=radical" alt="GitHub Streak" />
-</p>
+### 📊 GitHub Stats | Estadísticas de GitHub
 
 <p align="center">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=devsusana&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsusana&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+    <br clear="both"/> <br>    
+    <img align="left" src="https://git-hub-streak-stats.vercel.app/?user=devsusana&theme=radical" alt="GitHub Streaks" />
+    <br clear="both"/> <br> 
+    <br>    
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsusana" alt="GitHub Trophies" /></a> 
 </p>
