@@ -57,10 +57,10 @@
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=devsusana&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devsusana&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
     <br><br><br><br><br><br><br><br>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devsusana&theme=radical" alt="GitHub Streak" />
+    
+    <img align="center" src="https://git-hub-streak-stats.vercel.app/?user=devsusana&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devsusana" alt="GitHub Trophies" /></a> 
 </p>
-
